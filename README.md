@@ -1,4 +1,5 @@
 ### About Me
+<img src="https://user-images.githubusercontent.com/952248/115129746-a1e8c300-9f9d-11eb-9c7c-8c32a5ac6339.png" alt="Logo" height="100" />
 
 I am a Christian, C# and XAML enthusiast, and [Microsoft MVP](https://mvp.keboo.dev) (2020-present). 
 
