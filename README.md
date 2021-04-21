@@ -5,7 +5,7 @@ I am a Christian, C# and XAML enthusiast, and [Microsoft MVP](https://mvp.keboo.
 
 ## Current Projects
 I am the maintainer of several open source projects including [MaterialDesignInXaml](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) and [Moq.AutoMocker](https://github.com/moq/Moq.AutoMocker).
-I am also the author of several open source projects including [AuotDI](https://github.com/Keboo/AutoDI), [ShowMeTheXAML](https://github.com/Keboo/ShowMeTheXAML), and [XAMLTest](https://github.com/Keboo/XAMLTest).
+I am also the author of several open source projects including [AutoDI](https://github.com/Keboo/AutoDI), [ShowMeTheXAML](https://github.com/Keboo/ShowMeTheXAML), and [XAMLTest](https://github.com/Keboo/XAMLTest).
 
 I also contribute to [System.CommandLine](https://github.com/dotnet/command-line-api). 
 
