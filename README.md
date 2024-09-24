@@ -23,3 +23,4 @@ Twitter: https://twitter.keboo.dev
 
 GitHub: https://github.keboo.dev
 
+<a href="http://www.github.com/Keboo"><img src="https://github-readme-stats.vercel.app/api?username=Keboo&show_icons=true&hide=&count_private=true&title_color=92dd2e&text_color=ffffff&icon_color=892450&bg_color=000000&hide_border=true" alt="Keboo's GitHub stats" /></a>
