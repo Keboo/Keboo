@@ -1,7 +1,7 @@
 ### About Me
 <img src="https://user-images.githubusercontent.com/952248/115129746-a1e8c300-9f9d-11eb-9c7c-8c32a5ac6339.png" alt="Logo" height="100" />
 
-I am a Christian, C# and XAML enthusiast, [Microsoft MVP](https://mvp.keboo.dev) (2019-present), and [GitKraken Amabasador](https://gitkraken.keboo.dev).
+I am a Christian, C# and XAML enthusiast, [Microsoft MVP](https://mvp.keboo.dev) (2019-present), and [GitKraken Amabasador](https://gitkraken.keboo.dev). 
 
 ## Current Projects
 I am the maintainer of several open source projects including [MaterialDesignInXaml](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) and [Moq.AutoMocker](https://github.com/moq/Moq.AutoMocker).
@@ -19,7 +19,7 @@ YouTube: https://youtube.keboo.dev
 
 Blog: https://blog.keboo.dev
 
-Twitter: https://twitter.keboo.dev
+Twitter/X: https://twitter.keboo.dev
 
 GitHub: https://github.keboo.dev
 
