@@ -3,6 +3,8 @@
 
 I am a Christian, C# and XAML enthusiast, [Microsoft MVP](https://mvp.keboo.dev) (2019-present), and [GitKraken Amabasador](https://gitkraken.keboo.dev). 
 
+I am a founder of [Velopack](https://velopack.io) a cross platform installer and update framework.
+
 ## Current Projects
 I am the maintainer of several open source projects including [MaterialDesignInXaml](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) and [Moq.AutoMocker](https://github.com/moq/Moq.AutoMocker).
 I am also the author of several open source projects including [NosePlug](https://github.com/Keboo/NosePlug), [AutoDI](https://github.com/Keboo/AutoDI), [ShowMeTheXAML](https://github.com/Keboo/ShowMeTheXAML), and [XAMLTest](https://github.com/Keboo/XAMLTest).
