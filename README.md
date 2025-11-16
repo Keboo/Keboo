@@ -7,13 +7,15 @@ I am a founder of [Velopack](https://velopack.io) a cross platform installer and
 
 ## Current Projects
 I am the maintainer of several open source projects including [MaterialDesignInXaml](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) and [Moq.AutoMocker](https://github.com/moq/Moq.AutoMocker).
-I am also the author of several open source projects including [NosePlug](https://github.com/Keboo/NosePlug), [AutoDI](https://github.com/Keboo/AutoDI), [ShowMeTheXAML](https://github.com/Keboo/ShowMeTheXAML), and [XAMLTest](https://github.com/Keboo/XAMLTest).
-I also enjoy building applications such as [PointerStar](https://github.com/Keboo/PointerStar), [ColorKraken](https://github.com/Keboo/ColorKraken), and [SimplyBudget](https://github.com/Keboo/SimplyBudget).
+I am also the author of several open source projects including [ShowMeTheXAML](https://github.com/Keboo/ShowMeTheXAML), and [XAMLTest](https://github.com/Keboo/XAMLTest).
+I also enjoy building applications such as [PointerStar](https://github.com/Keboo/PointerStar), and [SimplyBudget](https://github.com/Keboo/SimplyBudget).
 
 I also contribute to [System.CommandLine](https://github.com/dotnet/command-line-api). 
 
 ## Streaming and Social
 I enjoy teaching others to code, and often live stream my works on open source projects. you can find me at my various social links below.
+
+All my links: https://keboo.dev
 
 Twitch: https://twitch.keboo.dev
 
@@ -21,7 +23,7 @@ YouTube: https://youtube.keboo.dev
 
 Blog: https://blog.keboo.dev
 
-Twitter/X: https://twitter.keboo.dev
+X/Twitter: https://x.keboo.dev
 
 GitHub: https://github.keboo.dev
 
